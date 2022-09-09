@@ -1,0 +1,25 @@
+{
+  "name": "sistemadeventas",
+  "version": "1.0.0",
+  "description": "Ejercicio de un sistema de ventas.",
+  "main": "main.js",
+  "scripts": {
+    "test": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YilverQ/javascript-exercises.git"
+  },
+  "keywords": [
+    "Ejercicio",
+    "POO",
+    "Javascript"
+  ],
+  "author": "Yilver Quevedo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YilverQ/javascript-exercises/issues"
+  },
+  "homepage": "https://github.com/YilverQ/javascript-exercises#readme",
+  "type" : "module"
+}
